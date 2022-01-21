@@ -1,5 +1,7 @@
 # CipherLegacy
-CipherSechs™ "Halo" Product
+**CipherSechs™ "Halo" Product**<br/>
+Identifying a need in the cold storage solutions market for a product that is _extremely exclusive_ and relatively unaffordable to mainstream crypto enthusiasts, CipherSechs has envisioned the CipherLegacy™.  This product is an improvement over the 6-Word-Plate and has several _novel_ features not seen in other high end wallet offerings in the current market(Q1, 2022).  The CipherLegacy is a product to be handed down generation to generation.  A unique heirloom.
+
 
 ## Specification  
 • Constructed out of 8mm thick highly polished stainless steel<br/>
