@@ -10,6 +10,8 @@ Identifying a need in the cold storage solutions market for a product that is _e
 • Design of the CipherLegacy is compatible with BIP0038 and SLIP0038 standards;<br/>
 &nbsp;&nbsp;ergo compatiable with LEDGER®, TREZOR®, METAMASK®, Et al.<br/>
 • **_Encoding is NON-PERMANENT_**<br/>
+• Can be utilized in a Shamrir's Secret Sharing.<br/>
+• Encode 24 words.<br/>
 • Novel 3x11 method of storage of user 'cipher'(Seed Words).<br/>
 • Novel 4x10 method of storage of user 'cipher'(Seed Words).<br/>
 • Unique laser engraving process on the metal **allows user to write on the metal** to confirm their Seed Word, BIP0038, SLIP0038<br/>
