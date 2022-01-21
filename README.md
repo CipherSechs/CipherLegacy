@@ -1,8 +1,9 @@
 # CipherLegacy
 **CipherSechs™ "Halo" Product**<br/>
-Identifying a need in the cold storage solutions market for a product that is _extremely exclusive_ and relatively unaffordable to mainstream crypto holders, CipherSechs has envisioned the CipherLegacy™.  This product is an improvement over the 6-Word-Plate and has several _novel_ features not seen in other high end wallet offerings in the current market(Q1, 2022).  The CipherLegacy is a product to be handed down generation to generation.  A unique heirloom.
-
-
+Identifying a need in the cold storage solutions market for a product that is _extremely exclusive_ and relatively unaffordable to mainstream crypto holders, CipherSechs has envisioned the CipherLegacy™.  This product is an improvement over the 6-Word-Plate and has several _novel_ features not seen in other high end wallet offerings in the current market(Q1, 2022).  The CipherLegacy is a product to be handed down generation to generation.  A unique heirloom.<br/>
+<br/>
+<br/>
+<br/>
 ## Specification  
 • Constructed out of 8mm thick highly polished stainless steel<br/>
 • Stainless steel has a melting point of 2550 deg f(1400 deg C).<br/>
@@ -10,7 +11,7 @@ Identifying a need in the cold storage solutions market for a product that is _e
 • Design of the CipherLegacy is compatible with BIP0038 and SLIP0038 standards;<br/>
 &nbsp;&nbsp;ergo compatiable with LEDGER®, TREZOR®, METAMASK®, Et al.<br/>
 • **_Encoding is NON-PERMANENT_**<br/>
-• Can be utilized in a Shamrir's Secret Sharing.<br/>
+• Can be utilized in a Shamir's Secret Sharing.<br/>
 • Encode 24 words.<br/>
 • Novel 3x11 method of storage of user 'cipher'(Seed Words).<br/>
 • Novel 4x10 method of storage of user 'cipher'(Seed Words).<br/>
@@ -23,4 +24,8 @@ Identifying a need in the cold storage solutions market for a product that is _e
 <br/>
 <br/>
 ## Disclaimer
-Product and design is patent pending.
+###### All photographs and text appearing here are the exclusive property of CipherSechs™ (except where stated otherwise) and are protected under international copyright treaties. They are made available for your personal viewing enjoyment only. No images are within the Public Domain. The photographs may not be copied, reproduced, redistributed, manipulated, projected, used or altered in any way without the prior express written permission of CipherSechs™.
+<br/>
+© CipherSechs 2022<br/>
+CipherTag™, CipherSechs™ 6 Word Plate™, CipherSechs™ 12 Word Plate™, CipherCoin™ BIP38 PPPK, CipherSechs™ Legacy™<br/>
+Aforementioned Products and/or Designs are Patent Pending.
